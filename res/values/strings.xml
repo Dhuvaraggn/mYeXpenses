@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyeXpensed</string>
+    <string name="action_settings">Settings</string>
+    <string name="today">TODAY EXPENSED</string>
+    <string name="daily">DAILY EXPENSED</string>
+    <string name="month">MONTHLY EXPENSED</string>
+    <string name="food">FOOD</string>
+    <string name="petrol">TRAVEL / PETROL</string>
+    <string name="groce">GROCERIES</string>
+    <string name="sundry">SUNDRY</string>
+    <string name="loan">LOAN</string>
+    <string name="educa">EDUCATION</string>
+    <string name="total">TOTAL</string>
+    <string name="mmonth">MONTH</string>
+    <string name="ymonth">YEAR</string>
+    <string name="submit">SUBMIT</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete record</string>
+</resources>
